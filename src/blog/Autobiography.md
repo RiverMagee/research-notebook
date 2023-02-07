@@ -7,7 +7,7 @@ tags: [
   "Integrative Informatics",
 ]
 date: 2023-02-01
-luogo: Palermo
+luogo: Allegheny College
 layout: article.njk
 permalink: "blog/{{ title | slugify }}.html"
 ---
