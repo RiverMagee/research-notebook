@@ -15,7 +15,7 @@ Pivoting away from the subject of AI, I would love to explore the intersection o
 
 However, in an article written by the Harvard Business Review, the dangers of pure marketing from an analytical standpoint are made clear. They state that instead of exclusively looking into data to solve their marketing problems, they should...
 
->“be looking for ways to inject humanity — and, yes, actual humans — into their efforts to reach out to customers.” 
+>be looking for ways to inject humanity — and, yes, actual humans — into their efforts to reach out to customers.
 
 I enjoy the idea that appealing to the public cannot simply be done by looking at the numbers, and that in order to truly engage with an audience of any kind there must be some form of human interaction. For example, while there are general rules that guide human consumer behavior, there are several contextual factors (time of day, level of hunger, impulsive behavior) that continue to be neglected at the cost of better understanding our audiences. I think it is important that we learn to incorporate these inherent human qualities into our analytical data, and perhaps craft better-improved algorithms that can measure and adapt to these less predictable factors.
 
@@ -27,8 +27,6 @@ As an aspiring front-end developer, it is crucial for me to understand what exac
 
 Sources:
 
-https://hbr.org/2015/06/the-perils-of-algorithm-based-marketing
+[Harvard Business Review](https://hbr.org/2015/06/the-perils-of-algorithm-based-marketing)
 
-https://uxdesign.cc/the-8-second-rule-ef2a60c5813c
-
-https://godotengine.org/
+[The 8 Second Rule](https://uxdesign.cc/the-8-second-rule-ef2a60c5813c)
